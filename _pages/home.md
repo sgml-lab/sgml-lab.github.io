@@ -1,12 +1,12 @@
 ---
-title: "Sanders Lab - Home"
+title: "SGML Lab CS@VT"
 layout: homelay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "SGML Lab at Virginia Tech."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Sanders Lab at UCSF
+## Science Guided Machine Learning Lab at VT
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
