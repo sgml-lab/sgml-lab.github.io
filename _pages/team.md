@@ -1,13 +1,12 @@
 ---
-title: "Sanders Lab - Team"
+title: "SGML Lab - Team"
 layout: gridlay
-excerpt: "Sanders Lab: Team members"
+excerpt: "SGML Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Team Members
-(Please click the name below for the lab memeber's profile)
 
 
 ---
