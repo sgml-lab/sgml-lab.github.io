@@ -7,12 +7,12 @@
 - name: Michael Gilson
   photo: michaelgilson.jpg
   info: Bioinformatics Programmer​ III
-  url: michaelgilson
+  url:
   group: 3
 
 - name: Louw Smith
   info: Data Operations Manager
-  url: louwsmith
+  url: 
   group: 8
   year: 2015-2016
   current: Instructor, Brandeis University
