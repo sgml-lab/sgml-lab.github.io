@@ -1,13 +1,12 @@
 ---
-title: "Sanders Lab - Team"
+title: "SGML Lab - Team"
 layout: gridlay
-excerpt: "Sanders Lab: Team members"
+excerpt: "SGML Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Team Members
-(Please click the name below for the lab memeber's profile)
 
 
 ---
@@ -44,7 +43,7 @@ permalink: /team/
 {% endif %}
 
 ---
-
+<!-- 
 ## Trainee
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -108,10 +107,10 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 ---
+ -->
 
-## PsychCore Genomics Core
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -143,7 +142,7 @@ permalink: /team/
 {% endif %}
 
 ---
-
+<!-- 
 ## Intern/Visitor
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -175,7 +174,7 @@ permalink: /team/
 </div>
 {% endif %}
 
----
+--- -->
 
 ## Alumni
 
@@ -191,11 +190,11 @@ permalink: /team/
 {% endif %}
 {% endfor %}
 
----
-
+<!-- --- -->
+<!-- 
 ## Administrative Support
 Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a>.
-
+ -->
 
 
 
